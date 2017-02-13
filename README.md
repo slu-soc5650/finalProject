@@ -1,4 +1,4 @@
-# `finalData`
+# `finalProject`
 
 ### Repository Contents
 This repository contains files for:
@@ -9,7 +9,7 @@ This repository contains files for:
 -   `README.md`
 -   `.gitignore`
 
-### About `csvCreate.csv`
+### About `csbCreate.csv`
 These data are a modified version of the original Citizens' Service Bureau Data release dated 02/17/2016. Data were manually extracted from the original release and then slightly modified for the purposes of this assignment. Several variables were dropped to limit the file size to less than 100GB (to comply with GitHub policy on file size). Observations prior to January 1, 2009 and after December 31, 2015 were removed. The code to create this dataset is included. **You do not need to execute this code. It is provided solely for reference, reproducibility, and transparency.** The output that it generated is included as well for reference.
 
 ### About SOC 4650/5650: Introduction to Geographic Information Science
