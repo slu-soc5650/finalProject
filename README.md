@@ -2,9 +2,8 @@
 
 ### Repository Contents
 This repository contains files for:
--   `csbCreate.csv` - dataset for final project
--   `csbCreate.do` - stata code for creating dataset
--   `csbCreate.md` - markdown output from dataset creation process
+-   `rawData/` - data for final project along with code and documentation
+-   `finalProject.pdf` - instructions for final project
 -   `LICENSE.md`
 -   `LICENSE_ORIG.md` - original terms of use from City of St. Louis
 -   `README.md`
